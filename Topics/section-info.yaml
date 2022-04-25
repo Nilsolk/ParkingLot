@@ -1,0 +1,31 @@
+content:
+- Integers in action
+- Relational operators
+- If expression
+- Repeating blocks
+- Equality
+- Characters
+- Ranges
+- For loop and ranges
+- Introduction to MutableList
+- Work with MutableLists
+- Comments
+- For loop and lists
+- Working with strings
+- Getting substrings
+- Processing strings
+- While loops
+- When expression
+- Functional decomposition
+- Default arguments
+- Named arguments
+- Constructors
+- Jumps and returns
+- The try-catch statement
+- Type system
+- The try-catch-finally statement
+- Member functions
+- Scopes
+- Inheritance
+- toString()
+- Data class
